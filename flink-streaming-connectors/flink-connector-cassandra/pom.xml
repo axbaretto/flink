@@ -37,7 +37,7 @@ under the License.
 
 	<!-- Allow users to pass custom connector versions -->
 	<properties>
-		<cassandra.version>2.2.5</cassandra.version>
+		<cassandra.version>2.2.18</cassandra.version>
 		<driver.version>3.0.0</driver.version>
 	</properties>
 
